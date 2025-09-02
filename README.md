@@ -1,6 +1,6 @@
 ## About Me
 
-Hi, I'm Lin Carbajales, a **full-stack web developer** in training at Factoría F5. Right now I'm diving deeper into Java and its back-end functionalities. I'm also interested in video-game development.
+Hi, I'm Lin Carbajales, a **full-stack web developer** in training at Factoría F5. Right now I'm diving deeper into Java and its back-end functionalities. I'm also interested in video game development.
 
 ## My Skills
 
